@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+.menu {
+    width: 650px;
+    height: 850px;
+    padding: 30px 20px;
+    margin: auto;
+    background-color: #fedd03;
+    position: relative;
+}
+
+.menu p {
+    color: #E92769;
+    font-weight: bold;
+}
+
+.menu h5 {
+    color: #E92769;
+    font-weight: bold;
+}
+
+hr {
+    border: 2px solid #6de8da;
+    color: #6de8da;
+    opacity: 100;
+}
+
+.upgrade {
+    width: 500px;
+    height: 120px;
+    background-color: #E92769;
+    position: absolute;
+    bottom: 0;
+    left: 10%;
+    padding: 30px 20px;
+    color: white;
+}
+
+#upgrades {
+    color: #fedd03;
+    display: flex;
+    align-items: center;
+}
